@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6cc241-1746-45a6-8d6b-085511877803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarAgille_Project.iml" afterDir="false" />
+    <list default="true" id="4c6cc241-1746-45a6-8d6b-085511877803" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StarAgille_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StarAgille_Project.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +36,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Selenium_Dhanalakshmi/rxjava-3.1.9.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -41,6 +51,117 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Admin.LoginPage" />
+      <module name="StarAgille_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StarAgille_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Admin" />
+      <option name="MAIN_CLASS_NAME" value="Admin.LoginPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.loginTo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StarAgille_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Admin" />
+      <option name="MAIN_CLASS_NAME" value="Admin.LoginPage" />
+      <option name="METHOD_NAME" value="loginTo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StarAgille_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Admin" />
+      <option name="MAIN_CLASS_NAME" value="Admin.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.methodName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StarAgille_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Admin" />
+      <option name="MAIN_CLASS_NAME" value="Admin.LoginTest" />
+      <option name="METHOD_NAME" value="methodName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShotAndLogoutClass" type="TestNG" nameIsGenerated="true">
+      <module name="StarAgille_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OHRM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OHRM" />
+      <option name="MAIN_CLASS_NAME" value="OHRM.ScreenShotAndLogoutClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.methodName" />
+        <item itemvalue="TestNG.LoginPage" />
+        <item itemvalue="TestNG.LoginPage.loginTo" />
+        <item itemvalue="Application.LoginPage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +171,14 @@
       <option name="presentableId" value="Default" />
       <updated>1724494486966</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1724495542016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724495542016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +191,36 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Admin/LoginPage.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StarAgille_Project$GetLoginDataClass.ic" NAME="GetLoginDataClass Coverage Results" MODIFIED="1724758103407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>OHRM.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/StarAgille_Project$GetLoginDataClass_screenShot.ic" NAME="GetLoginDataClass.screenShot Coverage Results" MODIFIED="1725024743193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>OHRM.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/StarAgille_Project$OHRM_Scenario1.ic" NAME="OHRM_Scenario1 Coverage Results" MODIFIED="1724759019809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/StarAgille_Project$GetLoginDataClass_loginTo.ic" NAME="GetLoginDataClass.loginTo Coverage Results" MODIFIED="1725024355263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>OHRM.*</FILTER>
+    </SUITE>
   </component>
 </project>
